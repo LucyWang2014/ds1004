@@ -1,0 +1,19 @@
+jz1672
+*   f4c9702 Merge branch 'testing1'
+|\  
+| *   06f75a3 Merge branch 'testing2' into testing1
+| |\  
+| * | fed2a68 2nd commit on testing1
+* | |   97a80c8 Merge branch 'testing2'
+|\ \ \  
+| | |/  
+| |/|   
+| * |   9df041f Merge branch 'testing1' into testing2
+| |\ \  
+| | |/  
+| | * cd6dc9f 1st commit on testing1
+* | | 808d315 2nd commit on master
+|/ /  
+* | 932b143 2nd commit on master
+|/  
+* d00a79d 1st commit on master
