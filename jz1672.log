@@ -39,3 +39,25 @@ kk3175
 * | 6b10468 (2) Second commit (1st on branch1).
 |/  
 * 45750f2 (1) First commit (1st on master).
+
+lw1582
+*   789cdf4 (HEAD, top_2) Merge branch 'bottom_3' into top_2
+|\  
+| *   2e652d1 (bottom_3) Merge branch 'master' into bottom_3
+| |\  
+| * | f16f9a1 bottom_3 commit
+* | |   e591c68 Merge branch 'master' into top_2
+|\ \ \  
+| | |/  
+| |/|   
+| * |   48d74c8 (master) Merge branch 'top_2' mege to center
+| |\ \  
+| | |/  
+| |/|   
+| * | 850b4ca top_2 commit 1
+* | | 195f199 top_3 commit
+| |/  
+|/|   
+* | 5333aed top_2 commit
+|/  
+* b1e0132 master commit 1
