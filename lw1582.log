@@ -41,16 +41,16 @@ kk3175
 * 45750f2 (1) First commit (1st on master).
 
 lw1582
-*   789cdf4 Merge branch 'bottom_3' into top_2
+*   789cdf4 (HEAD, top_2) Merge branch 'bottom_3' into top_2
 |\  
-| *   2e652d1 Merge branch 'master' into bottom_3
+| *   2e652d1 (bottom_3) Merge branch 'master' into bottom_3
 | |\  
 | * | f16f9a1 bottom_3 commit
 * | |   e591c68 Merge branch 'master' into top_2
 |\ \ \  
 | | |/  
 | |/|   
-| * |   48d74c8 Merge branch 'top_2' mege to center
+| * |   48d74c8 (master) Merge branch 'top_2' mege to center
 | |\ \  
 | | |/  
 | |/|   
